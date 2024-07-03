@@ -1,4 +1,3 @@
-// defaultTransactions.js
 export const defaultTransactions = [
     {
       id: 1,
